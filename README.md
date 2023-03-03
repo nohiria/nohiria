@@ -6,7 +6,6 @@
 </p>
 
 ------------
-<p align="center">⭐️ From <a href="https://github.com/selimdoyranli">@selimdoyranli</a></p>
 <!--
 **nohiria/nohiria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
