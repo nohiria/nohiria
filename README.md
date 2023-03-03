@@ -1,5 +1,12 @@
-<h1 align="center"> Hi, I'm Nohiria Velazquez<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there! Welcome to my Github<br> I'm Nohiria.<br>👩‍💻 Self-taught apprentice.<br>Full stack web developer 🚧in progress 🚧<br><br>#javascript, #python, #java</samp>
+</p>
 
+------------
+<p align="center">⭐️ From <a href="https://github.com/selimdoyranli">@selimdoyranli</a></p>
 <!--
 **nohiria/nohiria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
