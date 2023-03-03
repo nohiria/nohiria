@@ -1,7 +1,4 @@
 <p align="center">
-  <br>
-  <br>
-  <br>
   <samp>Hello there! Welcome to my Github<br> I'm Nohiria.<br>👩‍💻 Self-taught apprentice.<br>Full stack web developer 🚧in progress 🚧<br><br>#javascript, #python, #java</samp>
 </p>
 
