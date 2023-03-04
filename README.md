@@ -1,5 +1,5 @@
 <p align="center">
-  <samp>Hello there! 👋 Welcome to my Github<br><br> I'm Nohiria.<br>👩‍💻 Self-taught apprentice.<br>Full stack web developer 🚧in progress 🚧<br><br>#javascript, #python, #java</samp>
+  <samp>Hello there! 👋 Welcome to my Github<br><br> I'm Nohiria.<br>👩‍💻 Self-taught apprentice.<br>Full stack web developer 🚧in progress 🚧<br><br><samp>
 </p>
 
 ------------
