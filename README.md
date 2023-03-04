@@ -2,6 +2,8 @@
   <samp>Hello there! 👋 Welcome to my Github<br><br> I'm Nohiria.<br>👩‍💻 Self-taught apprentice.<br>Full stack web developer 🚧in progress 🚧<br><br><samp>
 </p>
 
+    <img src="https://i.gifer.com/6o0.gif"/>
+    
 ------------
 <!--
 **nohiria/nohiria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
