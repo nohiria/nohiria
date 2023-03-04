@@ -1,9 +1,9 @@
+
+
 <p align="center">
-  <samp>Hello there! 👋 Welcome to my Github<br><br> I'm Nohiria.<br>👩‍💻 Self-taught apprentice.<br>Full stack web developer 🚧in progress 🚧<br><br><samp>
+  <samp>Hello there! 👋 Welcome to my Github<br><br><img src="6o0.gif" width="120px"><br> I'm Nohiria.<br>👩‍💻 Self-taught apprentice.<br>Full stack web developer 🚧in progress 🚧<br><br><samp>
 </p>
 
-    
-------------
 <!--
 **nohiria/nohiria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
