@@ -8,7 +8,7 @@
 
 <samp>I'm Nohiria.</samp>
 
-<samp>👩‍💻 Passionate web developer with a love for innovation 🚀, problem-solving 🔍, and creativity 🎨.<br>🔍 Focused on becoming a **full stack web developer**, actively building projects and collaborating with others.<br>🤩 Fascinated by the intersection of **technology and art** 🖥️🎨, bringing elements of design and aesthetic appeal to projects.<br>🔒 Recently completed an **introduction to cybersecurity program** and earned a scholarship for certification.<br>📚 **Self-taught apprentice**, dedicated to ongoing learning and development 📈, constantly exploring new tools 🛠️ and techniques 💻 to expand my skills.<br>🚀 Excited to continue exploring new challenges and finding innovative solutions 💡.<br><br><br>
+<samp>👩‍💻 Passionate web developer with a love for innovation 🚀, problem-solving 🔍, and creativity 🎨.<br>🔍 Focused on becoming a **full stack web developer**, actively building projects and collaborating with others.<br>🤩 Fascinated by the intersection of **technology and art** 🖥️🎨, bringing elements of design and aesthetic appeal to projects.<br>🔒 Recently completed an **introduction to cybersecurity program**.<br>📚 **Self-taught apprentice**, dedicated to ongoing learning and development 📈, constantly exploring new tools 🛠️ and techniques 💻 to expand my skills.<br>🚀 Excited to continue exploring new challenges and finding innovative solutions 💡.<br><br><br>
 Thanks for stopping by and feel free to explore my repositories. Let's connect and learn together! 🚀🌟</samo>
 </div>
 
